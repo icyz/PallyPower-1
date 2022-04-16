@@ -127,6 +127,16 @@ PALLYPOWER_OTHER_VALUES = {
 
 PallyPower.BuffBarTitle = "Pally Buffs (%d)"
 
+PallyPower.IDToBless = {
+	[0] = "NONE",
+	[1] = "WISDOM",
+	[2] = "MIGHT",
+	[3] = "KING",
+	[4] = "SALVATION",
+	[5] = "LIGHT",
+	[6] = "SANCTUARY",
+}
+
 PallyPower.ClassID = PallyPower.isBCC and {
 	[1] = "WARRIOR",
 	[2] = "ROGUE",
